@@ -2,7 +2,7 @@
 .btn, .a {
   width: auto;
   height: auto;
-  background-color: #999b85;
+  background-color: #6d7491;
   color: black;
   animation-name: mianimacion;
   animation-duration: 5s;
@@ -15,12 +15,12 @@
 
 @keyframes mianimacion {
   0% {
-    background-color: #999b85; }
+    background-color: #6d7491; }
   50% {
     background-color: #ddb7ac;
     color: black; }
   100% {
-    background-color: #999b85; } }
+    background-color: #6d7491; } }
 
 @keyframes letrasAnimacion {
   0% {
@@ -79,7 +79,7 @@ h1, h2 h3 h4 {
   0% {
     color: black; }
   50% {
-    color: #999b85; }
+    color: #6d7491; }
   100% {
     color: black; } }
 
@@ -90,7 +90,7 @@ footer {
     text-align: center; }
     footer p a {
       text-decoration: none;
-      color: #999b85; }
+      color: #6d7491; }
       footer p a:hover {
         color: black; }
 
@@ -98,7 +98,7 @@ footer {
   font-size: 20px;
   padding: 0 8px;
   text-decoration: none;
-  color: #999b85; }
+  color: #6d7491; }
   #iconos i:hover {
     color: black; }
 
@@ -107,7 +107,7 @@ footer {
 
 .datos {
   text-decoration: none;
-  color: #999b85; }
+  color: #6d7491; }
   .datos:hover {
     color: black; }
 
@@ -168,7 +168,7 @@ footer {
   cursor: pointer; }
 
 .card:hover {
-  box-shadow: 0 5px 15px #999b85;
+  box-shadow: 0 5px 15px #6d7491;
   transform: translateY(-15px); }
 
 .card .head {
@@ -181,7 +181,7 @@ footer {
   width: 100%;
   height: 300px;
   border-radius: 50%;
-  background: #999b85;
+  background: #6d7491;
   bottom: 0; }
 
 .card .head .img {
