@@ -1,5 +1,5 @@
 .btn {
-    @include propiedadesPrincipales (auto, auto, $colorSecundario, $colorNegro);
+    @include propiedadesPrincipales (auto, auto, $colorSecundario, $colorBlanco);
     animation-name: mianimacion;
     animation-duration:map-get($boton, duracionAnimacion);
     animation-delay: map-get($boton, delayAnimacion);

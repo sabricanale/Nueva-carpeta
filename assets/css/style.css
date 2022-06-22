@@ -1,9 +1,10 @@
 @import url(animate.css);
+@import url(nosotras.css);
 .btn, .a {
   width: auto;
   height: auto;
   background-color: #6d7491;
-  color: black;
+  color: white;
   animation-name: mianimacion;
   animation-duration: 5s;
   animation-delay: 2s;
