@@ -34,6 +34,9 @@
 .navbar {
   background-color: white; }
 
+#navbarNav {
+  font-family: "Mohave"; }
+
 @media (max-width: 768px) {
   #intro {
     width: 90% !important; }
@@ -51,8 +54,7 @@
     display: flex;
     justify-content: end !important; } }
 
-h1, h2 h3 h4 {
-  font-family: "Josefin Sans";
+h1 {
   animation-delay: 2s;
   color: black;
   animation: miTitulo; }
@@ -67,14 +69,13 @@ h1, h2 h3 h4 {
 .tituloBanner {
   color: white;
   text-align: center;
-  padding-top: 3em; }
+  font-family: "Julius Sans One"; }
 
 .textoBanner {
   color: white;
   text-align: center;
-  padding-top: 1em;
   font-size: larger;
-  font-style: italic; }
+  font-family: "Mohave"; }
 
 @keyframes miTitulo {
   0% {
@@ -107,6 +108,7 @@ footer {
   width: 500px; }
 
 .datos {
+  font-family: "Julius Sans One";
   text-decoration: none;
   color: #6d7491; }
   .datos:hover {

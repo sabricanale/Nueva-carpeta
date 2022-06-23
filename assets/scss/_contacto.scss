@@ -5,16 +5,16 @@
     @extend .form-control;
 } 
 .datos{ 
+    font-family:"Julius Sans One"; //Para títulos
     text-decoration: map-get($pieDePagina,decoTexto);
     color: $colorSecundario;
     &:hover{
             color: $colorNegro;
            }
-}    
+}  
+
 .infoContacto{
-    background-color: $colorAlt2;
-    
-    
+    background-color: $colorAlt2;   
 }    
 .infoContacto h4{
     font-size:medium;
