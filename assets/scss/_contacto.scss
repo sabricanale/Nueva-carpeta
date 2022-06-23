@@ -4,6 +4,10 @@
 .form-select{
     @extend .form-control;
 } 
+
+#navbarNav{
+    font-family: "Mohave"; //Para el navegador
+   }
 .datos{ 
     font-family:"Julius Sans One"; //Para títulos
     text-decoration: map-get($pieDePagina,decoTexto);

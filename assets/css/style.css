@@ -107,6 +107,9 @@ footer {
 .form-control, .form-select {
   width: 500px; }
 
+#navbarNav {
+  font-family: "Mohave"; }
+
 .datos {
   font-family: "Julius Sans One";
   text-decoration: none;
